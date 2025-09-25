@@ -26,5 +26,5 @@ Route::get('/berita', function () {
 });
 
 Route::get('/contact', function () {
-    return "Halaman Kontak";
+    return view ('Contact');
 });
