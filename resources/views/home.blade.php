@@ -7,7 +7,7 @@
 <body style="margin:0; font-family:Arial, sans-serif; background:linear-gradient(to bottom, #000000, #2c2c2c); color:white;">
 
   <!-- Navbar -->
-  <div style="display:flex; justify-content:space-between; align-items:center; padding:20px; background-color:#0a0a0a;">
+  <div style="display:flex; justify-content:space-between; align-items:center; padding:15px 40px; background-color:#0a0a0a;">
     <h2 style="color:#8e44ad; margin:0;">F</h2>
     <div>
       <a href="{{ url('/') }}" style="color:#fff; margin:0 15px; text-decoration:none;">Home</a>
@@ -37,7 +37,7 @@
 
     <!-- Profile Image -->
     <div style="width:300px; height:300px; border-radius:50%; overflow:hidden; border:3px solid #8e44ad; box-shadow:0 0 30px #8e44ad;">
-      <img src="https://i.ibb.co/7yP4H5K/profile.jpg" alt="Profile" style="width:100%; height:100%; object-fit:cover;">
+      <img src="https://i.pinimg.com/736x/f6/17/45/f617459e6490f5a0321f52f85b09729a.jpg" alt="Profile" style="width:100%; height:100%; object-fit:cover;">
     </div>
   </div>
 

@@ -24,7 +24,7 @@
 
       <!-- Foto Profil -->
       <div style="flex:0 0 300px; height:300px; border-radius:50%; overflow:hidden; border:3px solid #a020f0; box-shadow:0 0 25px #a020f0;">
-        <img src="{{ asset('images/profile.jpg') }}" alt="Foto Ferhat" style="width:100%; height:100%; object-fit:cover;">
+        <img src="https://i.pinimg.com/736x/f6/17/45/f617459e6490f5a0321f52f85b09729a.jpg" alt="Foto Ferhat" style="width:100%; height:100%; object-fit:cover;">
       </div>
 
       <!-- Biodata -->
